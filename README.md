@@ -13,4 +13,4 @@ Esta aplicación web permite explorar datos de anuncios de venta de coches utili
 ## Cómo ejecutar
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Oskarfmb/data_analysis_project.git
